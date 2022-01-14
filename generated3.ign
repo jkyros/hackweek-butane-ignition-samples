@@ -1,0 +1,23 @@
+{
+  "ignition": {
+    "version": "3.1.0"
+  },
+  "storage": {
+    "files": [
+      {
+        "group": {
+          "id": 1000 
+        },
+        "path": "/etc/stuff2.txt",
+        "user": {
+          "id": 1000
+        },
+        "contents": {
+          "source": "data:,Conflicts!"
+        },
+        "mode": 420
+      }
+    ]
+  }
+}
+
