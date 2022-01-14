@@ -1,0 +1,12 @@
+variant: fcos
+version: 1.1.0
+storage:
+  files:
+    - path: /etc/stuff.txt
+      contents:
+        inline: Hello, world!
+      mode: 0644
+      user:
+        id: 500
+      group:
+        id: 501

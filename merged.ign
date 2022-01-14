@@ -1,0 +1,12 @@
+{
+  "ignition": {
+    "version": "3.1.0",
+    "config": {
+      "merge": [
+        {"local": "/home/jkyros/hackweek/coreos-derive/generated1.ign"},
+        {"local": "/home/jkyros/hackweek/coreos-derive/generate2d.ign"}
+      ]
+    }
+  }
+}
+
