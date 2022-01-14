@@ -3,8 +3,10 @@
     "version": "3.1.0",
     "config": {
       "merge": [
-        {"local": "/home/jkyros/hackweek/coreos-derive/generated1.ign"},
-        {"local": "/home/jkyros/hackweek/coreos-derive/generate2d.ign"}
+        {"source": "https://raw.githubusercontent.com/jkyros/hackweek-butane-ignition-samples/master/generated1.ign"},
+        {"source": "https://raw.githubusercontent.com/jkyros/hackweek-butane-ignition-samples/master/generated2.ign"},
+        {"source": "https://raw.githubusercontent.com/jkyros/hackweek-butane-ignition-samples/master/generated3.ign"},
+        {"source": "https://raw.githubusercontent.com/jkyros/hackweek-butane-ignition-samples/master/generated4.ign"}
       ]
     }
   }
